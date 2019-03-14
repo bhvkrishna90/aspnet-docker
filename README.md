@@ -1,7 +1,7 @@
 aspnet-docker
 =============
 
-This project is part of ASP.NET Core. You can find samples, documentation and getting started instructions for ASP.NET Core at <https://docs.asp.net>.
+This project is part of ASP.NET Core. You can find samples, documentation and getting started instructions for ASP.NET Core at <https://docs.asp.net>...
 
 The repository is used to create multiple ASP.NET Core Docker images. Follow the links below for more details on each image.
 
